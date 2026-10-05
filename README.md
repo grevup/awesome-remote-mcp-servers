@@ -1127,7 +1127,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Find Reddit, Hacker News, X and Bluesky posts mentioning your product, scored as leads.
 - [Revup](https://revup.com/docs/mcp/) `https://revup.com/mcp`
   [![Revup MCP connector](https://glama.ai/mcp/connectors/com.revup/revup/badges/score.svg)](https://glama.ai/mcp/connectors/com.revup/revup)
-  🔐 - Create, customize, preview and report on promotions in your Revup account.
+  🔐 - Create, customize, preview and report on sweepstakes, contests, forms, surveys, quizzes and other promotions.
 - [SearcherLite](https://searcherlite.com) `https://searcherlite.com/api/mcp`
   [![SearcherLite MCP connector](https://glama.ai/mcp/connectors/com.searcherlite/searcherlite/badges/score.svg)](https://glama.ai/mcp/connectors/com.searcherlite/searcherlite)
   🔐 - Google keyword, domain, backlink and AI-visibility data, paid per lookup in credits with no subscription.
